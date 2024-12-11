@@ -1,5 +1,5 @@
-# RL
-Tetris Env:
+# RL  
+Tetris Env:  
 Height x Hidth (20 blocks x 10 blocks)  
 is_Terminated (Game over)  
 height (Current stack height)  
